@@ -1,0 +1,19 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckaycjm21/Node-Work.git"
+  },
+  "author": "Cornel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckaycjm21/Node-Work/issues"
+  },
+  "homepage": "https://github.com/mckaycjm21/Node-Work#readme"
+}
